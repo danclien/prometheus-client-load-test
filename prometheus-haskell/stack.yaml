@@ -1,0 +1,7 @@
+flags: {}
+packages:
+- prometheus-metrics-ghc/
+- wai-middleware-prometheus/
+- example/
+- prometheus-client/
+resolver: lts-7.2
